@@ -1,0 +1,18 @@
+Node MCU esp8266 - wifi - 802.11b/g/n
+side one-
+A0
+G
+VV
+S3
+S2
+S1
+SC
+S0
+SK
+G
+3V
+EN
+RST
+G
+VIN
+SIDE 
